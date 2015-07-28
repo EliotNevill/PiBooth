@@ -1,0 +1,2 @@
+# PiBooth
+Digital photo booth
